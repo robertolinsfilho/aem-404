@@ -1,0 +1,42 @@
+.have{
+    margin-top: 27%!important;
+    margin-left: 52%;
+    width: 59%;
+}
+.frase1{
+    font-weight: 700;
+    font-size: 64px
+}
+.frase2{
+    font-size:24px;
+    font-weight: 400 ;
+    width: 72%;
+}
+.button{
+    color: white;
+    background: #333333;
+    width: 35%;
+    height: 60px;
+}
+@media only screen and (max-width: 700px) {
+    .have{
+        margin-top: 130%!important;
+        margin-left: 4%;
+        width: 100%;
+    }
+    .frase1{
+        font-weight: 700;
+        font-size: 48px
+    }
+    .frase2{
+        font-size: 18px;
+        font-weight: 400;
+        width: 97%;
+    }
+    .button{
+        color: #fff;
+        background: #333;
+        width: 58%;
+        height: 60px;
+    }
+}

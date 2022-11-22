@@ -1,0 +1,38 @@
+.have2{
+    margin-top: 27%!important;
+    margin-left: 47%;
+    width: 59%;
+}
+.frase3{
+    font-weight: 700;
+    font-size: 24px;
+    margin-top: -146%;
+    margin-left: -91%;
+}
+
+.image{
+    margin-left: -85%;
+    margin-top: 23%;
+}
+@media only screen and (max-width: 700px) {
+    .have2{
+        margin-top: -138%!important;
+        margin-left: 16%;
+        width: 30%;
+        position: absolute;
+    }
+    .frase3{
+        font-weight: 700;
+        font-size: 24px;
+        margin-top: -146%;
+        margin-left: -59%;
+    }
+    
+    .image{
+        margin-left: -46%;
+        margin-top: 27%;
+        width: 294%;
+    }
+
+
+}
